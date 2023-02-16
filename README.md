@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=Olá+Sou+KaioSouza+Desenvolvedor+Full-Stack+🌐;Tenho+20+Anos+😅;Bem-vindo+ao+Meu+GitHub+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=Olá+Sou+KaioSouza+Desenvolvedor+Full-Stack+🌐;Bem-vindo+ao+Meu+GitHub+:%29)](https://git.io/typing-svg)
 
 ## ☆  💻 Status Code :
   <div align="center">  
@@ -37,7 +37,7 @@
   <h2>☆ 📚 Cursos</h2>
   <h5>• | 📚 Windows e linux, Pacote Office (Word, Excel, PowerPoint e Access) e manutenção de Microcomputadores.</h5>
 
-  <h5>• | 📚 Auxiliar administrativo; Auxiliar de Escritório; Auxiliar Financeiro, Auxiliar de Contabilidade; marketing, RH, Departamento Pessoal; instrutor de informática.</h5>
+  <h5>• | 📚 Javascript; Angular;  React; Next; Vue; Node; HTML; CSS; jQuery; Bootstrap; Webpack; Gulp; </h5>
 
   <h5>• | 📚 Inglês - basico.
 Entidade: SmartData – Formação Profissional</h5>
