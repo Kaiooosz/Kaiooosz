@@ -33,18 +33,16 @@
   </div>
 
 <div >
-  <h2>☆ 📚 Cursos</h2>
+  <h2> 📚 Cursos </h2>
   <h5>• | 📚 Windows e linux, Pacote Office (Word, Excel, PowerPoint e Access) e manutenção de Microcomputadores.</h5>
 
-  <h5>• | 📚 Javascript; Angular;  React; Next; Vue; Node; HTML; CSS; jQuery; Bootstrap; Webpack; Gulp; </h5>
+  <h5>• | 📚 Javascript; Angular;  React; Next; Vue; Node; HTML; CSS; jQuery; Bootstrap; Webpack; typescript; JavaScript; </h5>
 
-  <h5>• | 📚 Inglês - basico.
-Entidade: SmartData – Formação Profissional</h5>
+  <h5>• | 📚 Inglês - basico.</h5>
 
-  <h5>• | 📚 Outlook Udemy: Teste funcionais, Lógica de programação e Algoritmos, introdução a Banco de Dados MySQL</h5>
+  <h5>• | 📚 Udemy: Teste funcionais, Lógica de programação e Algoritmos, introdução a Banco de Dados MySQL, postegreSQl</h5>
 
-  <h5>• | 📚 Nerdin vagas TI - Metodologia Agil, gerenciamentos de projetos.
-Ferramentas: Jira, ALM, kanban e Selenium. </h5>
+  
   
   
 </div>
