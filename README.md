@@ -11,7 +11,6 @@
   
 
   
-  ![Contribution](https://activity-graph.herokuapp.com/graph?username=kaiooosz&color=7F3ACE&line=1E90FF&point=FF0000&title_color=FF0000&area_color=FF0000&hide_border=true&area=true&bg_color=0d1117)
   
 <div style="display: inline_block"><br>
   
