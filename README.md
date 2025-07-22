@@ -34,9 +34,7 @@
    <img align="right"alt="kaiooosz"height="175"style="borderradius:20px;"src="https://cdn.discordapp.com/attachments/1007920143977947206/1047021513632649266/a_1fe6f5f9c9ecbf073e5032103271bfd3.gif">
 
   <div>
-  <h3>☆  📚 Outros:</h3>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="37" alt="vscode logo"  />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" height="30" width="37" alt="windows logo"/>
+ 
   </div>
 
 <div >
