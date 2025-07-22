@@ -15,14 +15,21 @@
 <div style="display: inline_block"><br>
   
   ## ☆  📚 Atualmente estudando as seguintes tecnologias :
-  
-  <img align="center" alt="kaiooosz-HTML" height="30" width="37" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="kaiooosz-CSS" height="30" width="37" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
-  <img align="center" alt="kaiooosz" height="30" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="kaiooosz" height="30" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
-  <img align="center" alt="kaiooosz" height="30" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  
+<!-- Next.js -->
+<img align="center" alt="kaiooosz-NextJS" height="30" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+
+<!-- Tailwind CSS -->
+<img align="center" alt="kaiooosz-Tailwind" height="30" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+
+<!-- JavaScript -->
+<img align="center" alt="kaiooosz-JS" height="30" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+
+<!-- React -->
+<img align="center" alt="kaiooosz-React" height="30" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+
+<!-- PostgreSQL -->
+<img align="center" alt="kaiooosz-PostgreSQL" height="30" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+
 </div>
    <img align="right"alt="kaiooosz"height="175"style="borderradius:20px;"src="https://cdn.discordapp.com/attachments/1007920143977947206/1047021513632649266/a_1fe6f5f9c9ecbf073e5032103271bfd3.gif">
 
@@ -33,23 +40,13 @@
   </div>
 
 <div >
-  <h2> 📚 Cursos </h2>
-  <h5>• | 📚 Windows e linux, Pacote Office (Word, Excel, PowerPoint e Access) e manutenção de Microcomputadores.</h5>
-
-  <h5>• | 📚 Javascript; Angular;  React; Next; Vue; Node; HTML; CSS; jQuery; Bootstrap; Webpack; typescript; JavaScript; </h5>
-
-  <h5>• | 📚 Inglês - basico.</h5>
-
-  <h5>• | 📚 Udemy: Teste funcionais, Lógica de programação e Algoritmos, introdução a Banco de Dados MySQL, postegreSQl</h5>
-
-  
   
   
 </div>
  
  
 <div> 
-  <h2>☆  😎 Rede Social e Contatos</h2>
+  <h2>☆   Rede Social e Contatos</h2>
   <a href="kaio_tsuno.10@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white"</a>
   <a href="https://www.instagram.com/__14.01k/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/kaio-tsunokawa-de-souza-8b9b461a7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
