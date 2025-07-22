@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=Olá+Sou+KaioSouza+Desenvolvedor+Full-Stack+🌐;Bem-vindo+ao+Meu+GitHub+:%29)](https://git.io/typing-svg)
 
-## ☆  💻 Status Code :
+##   💻 Status Code :
   <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kaiooosz&show_icons=true&count_private=true&hide_border=true&title_color=FF0000&icon_color=FF0000&text_color=ffff&bg_color=0d1117" alt="Eric Felipe github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiooosz&layout=compact&hide_border=true&title_color=FF0000&text_color=ffff&bg_color=0d1117" />
@@ -14,12 +14,9 @@
   
 <div style="display: inline_block"><br>
   
-  ## ☆  📚 Atualmente estudando as seguintes tecnologias :
+  ## ☆   Atualmente estudando as seguintes tecnologias :
 <!-- Next.js -->
 <img align="center" alt="kaiooosz-NextJS" height="30" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-
-<!-- Tailwind CSS -->
-<img align="center" alt="kaiooosz-Tailwind" height="30" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
 
 <!-- JavaScript -->
 <img align="center" alt="kaiooosz-JS" height="30" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
