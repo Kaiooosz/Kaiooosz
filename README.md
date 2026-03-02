@@ -44,12 +44,18 @@ const kaio = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=kaiooosz&show_icons=true&count_private=true&hide_border=true&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff&bg_color=0d1117&rank_icon=github" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiooosz&layout=compact&hide_border=true&title_color=00D4FF&text_color=ffffff&bg_color=0d1117" />
+
+<a href="https://github.com/kaiooosz">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaiooosz&show_icons=true&theme=github_dark&hide_border=true&title_color=00D4FF&icon_color=00D4FF&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiooosz&layout=compact&theme=github_dark&hide_border=true&title_color=00D4FF"/>
+</a>
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaiooosz&theme=github-dark-blue&hide_border=true&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" />
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=kaiooosz&theme=github-dark-blue&hide_border=true&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&locale=pt_BR)](https://git.io/streak-stats)
+
 </div>
 
 ---
